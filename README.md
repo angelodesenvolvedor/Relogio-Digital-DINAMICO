@@ -13,3 +13,4 @@ O estilo do relógio é definido no arquivo style.css. Ele utiliza a fonte "Open
 
 ## Lógica do Relógio
 O arquivo script.js contém o código JavaScript responsável pela lógica do relógio. Ele usa a função setInterval para atualizar a exibição a cada segundo. O código obtém a hora atual, formata-a e a exibe dinamicamente no navegador.
+
